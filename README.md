@@ -1,9 +1,9 @@
 # ubiquitous_computing
 <table>
-  <th>
+  <thead>
     <td>num</td>
     <td>idea</td>
-  </th>
+  </thead>
   <tr>
     <td>1</td>
     <td>絶対に人に見られない空間が欲しい</td>
